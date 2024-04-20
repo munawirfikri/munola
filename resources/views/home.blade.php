@@ -58,9 +58,9 @@
 
         <div class="s-intro__slider swiper-container">
             <div class="swiper-wrapper">
-                <div class="s-intro__slide swiper-slide" style="background-image: url('/assets/img/hero-1.JPG');"></div>
-                <div class="bg-opacity-50 s-intro__slide swiper-slide" style="background-image: url('/assets/img/hero-2.JPG');"></div>
-                <div class="s-intro__slide swiper-slide bg-opacity-10" style="background-image: url('/assets/img/hero-3.JPG');"></div>
+                <div class="s-intro__slide swiper-slide" style="background-image: url('/assets/img/hero-1.jpg');"></div>
+                <div class="bg-opacity-50 s-intro__slide swiper-slide" style="background-image: url('/assets/img/hero-2.jpg');"></div>
+                <div class="s-intro__slide swiper-slide bg-opacity-10" style="background-image: url('/assets/img/hero-3.jpg');"></div>
             </div>
         </div>
 
